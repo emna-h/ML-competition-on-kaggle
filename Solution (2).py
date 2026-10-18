@@ -1,5 +1,5 @@
 """
-solution_1.py -- FORMULA-FREE version (follows the hint: the model itself learns the moyenne and the track scores,
+solution.py -- FORMULA-FREE version (follows the hint: the model itself learns the moyenne and the track scores,
 so we do NOT hand it any average column or any GL/RT/IIA/IMI score formula).
 
 Pipeline
